@@ -1,0 +1,67 @@
+.hero-img{
+    background-image: url(./Images/Winter-in-Portugal-Holiday-Travel-Tour-Package.jpg);
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    background-attachment: fixed;
+    /* opacity: 0.8; */
+}
+h1{
+    /* font-size: 4rem; */
+    font-weight: 500px;
+}
+.intro{
+    margin: 10rem auto;
+}
+p{
+    line-height: 1.5;
+    color: grey;
+}
+/* .Post{
+    
+    color: blue;
+    margin-top: -100%;
+   
+} */
+
+.sec{
+    margin: 80px 0;
+}
+.right-text p{
+  width: 80%;
+  font-size: 15px; 
+  color: grey;
+  margin-top: 15px;
+
+}
+.slider{
+    width: 70%;
+}
+/* .corousel{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+} */
+.top-text{
+    margin: 5% 20% 5%;
+    width:60% ;
+}
+.top-text p{
+font-size: 1.2rem;
+
+}
+.cards-row{
+    width: 80%;
+    margin: 0 12% 0;
+}
+.icons a{
+    color: white;
+    padding: 8px;
+}
+hr{
+    background-color: rgb(190, 185, 185);
+}
+.end{
+    font-size: 12px;
+    padding-bottom: 4px;
+}
